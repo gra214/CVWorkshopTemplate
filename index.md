@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Gillian Andrews is ..... etc etc
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Health Humanities:** etc etc details
+- **Horror Studies:** etc etc details
+- **Posthumanism:** etc etc details
 
 {% include_relative _includes/education.md %}
 
